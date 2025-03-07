@@ -6,3 +6,8 @@ Pushback
 Alperen
 MTOW
 Pixhawk
+IMSAFE
+JLCPCB
+Matek
+Precharge
+SIYI
