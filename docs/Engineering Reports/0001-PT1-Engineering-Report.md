@@ -8,7 +8,7 @@ Spearhead Engineering Report: https://docs.google.com/document/d/11yaRfGD6EVfLsO
 
 # 1. **Introduction**
 
-Hey guys how are you doing
+朋友是一个坚韧不拔的纪录片。
 
 # 2. **Project Requirements**
 
